@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import './App.css';
+import './css/index.css';
 import moment from 'moment';
 
 
